@@ -1,0 +1,6 @@
+C:\Users\1\source\repos\Prepare Bussiness and Data Access Layer For Bank System\DataAccessLayerBankSystem\bin\Debug\DataAccessLayerBankSystem.dll
+C:\Users\1\source\repos\Prepare Bussiness and Data Access Layer For Bank System\DataAccessLayerBankSystem\bin\Debug\DataAccessLayerBankSystem.pdb
+C:\Users\1\source\repos\Prepare Bussiness and Data Access Layer For Bank System\DataAccessLayerBankSystem\obj\Debug\DataAccessLayerBankSystem.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Prepare Bussiness and Data Access Layer For Bank System\DataAccessLayerBankSystem\obj\Debug\DataAccessLayerBankSystem.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Prepare Bussiness and Data Access Layer For Bank System\DataAccessLayerBankSystem\obj\Debug\DataAccessLayerBankSystem.dll
+C:\Users\1\source\repos\Prepare Bussiness and Data Access Layer For Bank System\DataAccessLayerBankSystem\obj\Debug\DataAccessLayerBankSystem.pdb

@@ -1,0 +1,368 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|c:\\users\\1\\source\\repos\\bank project 3 tier arch\\presentationlayer-windowform\\frmtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|solutionrelative:presentationlayer-windowform\\frmtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\presentationlayer-windowform\\frmtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|solutionrelative:presentationlayer-windowform\\frmtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\presentationlayer-windowform\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|solutionrelative:presentationlayer-windowform\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\presentationlayer-windowform\\updateclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|solutionrelative:presentationlayer-windowform\\updateclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\presentationlayer-windowform\\finduserusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|solutionrelative:presentationlayer-windowform\\finduserusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\presentationlayer-windowform\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|solutionrelative:presentationlayer-windowform\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\presentationlayer-windowform\\findclientusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|solutionrelative:presentationlayer-windowform\\findclientusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\presentationlayer-windowform\\addnewuserusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|solutionrelative:presentationlayer-windowform\\addnewuserusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\presentationlayer-windowform\\frmcurrencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|solutionrelative:presentationlayer-windowform\\frmcurrencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\presentationlayer-windowform\\frmmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|solutionrelative:presentationlayer-windowform\\frmmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\presentationlayer-windowform\\frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|solutionrelative:presentationlayer-windowform\\frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\presentationlayer-windowform\\listusersusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|solutionrelative:presentationlayer-windowform\\listusersusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\presentationlayer-windowform\\clientslistusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|solutionrelative:presentationlayer-windowform\\clientslistusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\presentationlayer-windowform\\clientslistusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|solutionrelative:presentationlayer-windowform\\clientslistusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\presentationlayer-windowform\\listusersusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|solutionrelative:presentationlayer-windowform\\listusersusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\presentationlayer-windowform\\frmcurrencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|solutionrelative:presentationlayer-windowform\\frmcurrencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\presentationlayer-windowform\\frmmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|solutionrelative:presentationlayer-windowform\\frmmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\presentationlayer-windowform\\frmclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|solutionrelative:presentationlayer-windowform\\frmclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\presentationlayer-windowform\\addnewclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|solutionrelative:presentationlayer-windowform\\addnewclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\presentationlayer-windowform\\updateuserusercontrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|solutionrelative:presentationlayer-windowform\\updateuserusercontrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\presentationlayer-windowform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC97AC4-08F4-4C9D-9838-A5CFCF6CEAC4}|PresentationLayer-WindowForm\\PresentationLayer-WindowForm.csproj|solutionrelative:presentationlayer-windowform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogInForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\LogInForm.cs",
+              "RelativeDocumentMoniker": "PresentationLayer-WindowForm\\LogInForm.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\LogInForm.cs [Design]",
+              "RelativeToolTip": "PresentationLayer-WindowForm\\LogInForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:13:22.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmTransaction.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\FrmTransaction.cs",
+              "RelativeDocumentMoniker": "PresentationLayer-WindowForm\\FrmTransaction.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\FrmTransaction.cs [Design]",
+              "RelativeToolTip": "PresentationLayer-WindowForm\\FrmTransaction.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T17:49:36.884Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FindUserUserControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\FindUserUserControl.cs",
+              "RelativeDocumentMoniker": "PresentationLayer-WindowForm\\FindUserUserControl.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\FindUserUserControl.cs [Design]",
+              "RelativeToolTip": "PresentationLayer-WindowForm\\FindUserUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T20:36:39.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\FrmTransaction.cs",
+              "RelativeDocumentMoniker": "PresentationLayer-WindowForm\\FrmTransaction.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\FrmTransaction.cs",
+              "RelativeToolTip": "PresentationLayer-WindowForm\\FrmTransaction.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAAALsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T17:49:46.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmCurrencies.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\FrmCurrencies.cs",
+              "RelativeDocumentMoniker": "PresentationLayer-WindowForm\\FrmCurrencies.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\FrmCurrencies.cs [Design]",
+              "RelativeToolTip": "PresentationLayer-WindowForm\\FrmCurrencies.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:24:33.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpdateUserUserContrl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\UpdateUserUserContrl.cs",
+              "RelativeDocumentMoniker": "PresentationLayer-WindowForm\\UpdateUserUserContrl.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\UpdateUserUserContrl.cs [Design]",
+              "RelativeToolTip": "PresentationLayer-WindowForm\\UpdateUserUserContrl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:45:38.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateClient.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\UpdateClient.cs",
+              "RelativeDocumentMoniker": "PresentationLayer-WindowForm\\UpdateClient.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\UpdateClient.cs [Design]",
+              "RelativeToolTip": "PresentationLayer-WindowForm\\UpdateClient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:43:47.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FindClientUserControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\FindClientUserControl.cs",
+              "RelativeDocumentMoniker": "PresentationLayer-WindowForm\\FindClientUserControl.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\FindClientUserControl.cs [Design]",
+              "RelativeToolTip": "PresentationLayer-WindowForm\\FindClientUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:38:08.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddNewUserUserControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\AddNewUserUserControl.cs",
+              "RelativeDocumentMoniker": "PresentationLayer-WindowForm\\AddNewUserUserControl.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\AddNewUserUserControl.cs [Design]",
+              "RelativeToolTip": "PresentationLayer-WindowForm\\AddNewUserUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:36:53.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddNewClient.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\AddNewClient.cs",
+              "RelativeDocumentMoniker": "PresentationLayer-WindowForm\\AddNewClient.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\AddNewClient.cs [Design]",
+              "RelativeToolTip": "PresentationLayer-WindowForm\\AddNewClient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:30:17.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmClients.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\FrmClients.cs",
+              "RelativeDocumentMoniker": "PresentationLayer-WindowForm\\FrmClients.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\FrmClients.cs [Design]",
+              "RelativeToolTip": "PresentationLayer-WindowForm\\FrmClients.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:30:05.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmMainScreen.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\FrmMainScreen.cs",
+              "RelativeDocumentMoniker": "PresentationLayer-WindowForm\\FrmMainScreen.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\FrmMainScreen.cs",
+              "RelativeToolTip": "PresentationLayer-WindowForm\\FrmMainScreen.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAA9wG0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:27:56.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmCurrencies.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\FrmCurrencies.cs",
+              "RelativeDocumentMoniker": "PresentationLayer-WindowForm\\FrmCurrencies.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\FrmCurrencies.cs",
+              "RelativeToolTip": "PresentationLayer-WindowForm\\FrmCurrencies.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAIwMMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:24:36.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogInForm.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\LogInForm.cs",
+              "RelativeDocumentMoniker": "PresentationLayer-WindowForm\\LogInForm.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\LogInForm.cs",
+              "RelativeToolTip": "PresentationLayer-WindowForm\\LogInForm.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:21:26.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ListUsersUserControl.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\ListUsersUserControl.cs",
+              "RelativeDocumentMoniker": "PresentationLayer-WindowForm\\ListUsersUserControl.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\ListUsersUserControl.cs",
+              "RelativeToolTip": "PresentationLayer-WindowForm\\ListUsersUserControl.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T20:38:31.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClientsListUserControl.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\ClientsListUserControl.cs",
+              "RelativeDocumentMoniker": "PresentationLayer-WindowForm\\ClientsListUserControl.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\ClientsListUserControl.cs",
+              "RelativeToolTip": "PresentationLayer-WindowForm\\ClientsListUserControl.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T20:53:04.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClientsListUserControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\ClientsListUserControl.cs",
+              "RelativeDocumentMoniker": "PresentationLayer-WindowForm\\ClientsListUserControl.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\ClientsListUserControl.cs [Design]",
+              "RelativeToolTip": "PresentationLayer-WindowForm\\ClientsListUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T20:38:53.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ListUsersUserControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\ListUsersUserControl.cs",
+              "RelativeDocumentMoniker": "PresentationLayer-WindowForm\\ListUsersUserControl.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\ListUsersUserControl.cs [Design]",
+              "RelativeToolTip": "PresentationLayer-WindowForm\\ListUsersUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T20:37:03.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmUsers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\FrmUsers.cs",
+              "RelativeDocumentMoniker": "PresentationLayer-WindowForm\\FrmUsers.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\FrmUsers.cs [Design]",
+              "RelativeToolTip": "PresentationLayer-WindowForm\\FrmUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T20:35:35.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmMainScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\FrmMainScreen.cs",
+              "RelativeDocumentMoniker": "PresentationLayer-WindowForm\\FrmMainScreen.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\FrmMainScreen.cs [Design]",
+              "RelativeToolTip": "PresentationLayer-WindowForm\\FrmMainScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:40:27.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\Program.cs",
+              "RelativeDocumentMoniker": "PresentationLayer-WindowForm\\Program.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\Bank Project 3 tier arch\\PresentationLayer-WindowForm\\Program.cs",
+              "RelativeToolTip": "PresentationLayer-WindowForm\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAnwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T18:44:47.619Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
